@@ -1,0 +1,4 @@
+E:\temp\HideRoute\HideRoute\bin\HideRoute.dll
+E:\temp\HideRoute\HideRoute\bin\HideRoute.pdb
+E:\temp\HideRoute\HideRoute\obj\Debug\HideRoute.dll
+E:\temp\HideRoute\HideRoute\obj\Debug\HideRoute.pdb
